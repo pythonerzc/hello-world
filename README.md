@@ -1,2 +1,5 @@
 # hello-world
-My first project
+
+Hi,everyone:
+
+  I am a beginner in python
